@@ -1437,10 +1437,10 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 18.04.2020,00:00:00,BL,0,798,,44,7,5,636,25,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft
 18.04.2020,09:45:00,BS,0,929,,0,0,0,753,40,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-929-bestaetigte-faelle-im-kanton-basel-stadt-gd.html
 18.04.2020,00:00:00,FR,0,956,,67,11,0,109,69,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton
-18.04.2020,12:00:00,GE,0,4657,,315,34,33,553,0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger
+18.04.2020,12:00:00,GE,0,4657,,315,34,33,553,191,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger
 18.04.2020,,GL,,110,,,,,,3,
 18.04.2020,,GR,,764,,,,,,41,
-18.04.2020,,JU,,191,,,,,,2,
+18.04.2020,16:00:00,JU,0,190,,17,5,0,0,2,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html
 18.04.2020,12:30:00,LU,0,623,,26,4,0,0,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus
 18.04.2020,16:00:00,NE,0,642,,44,10,8,0,50,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf
 18.04.2020,16:00:00,NW,0,108,,0,0,0,0,3,https://www.nw.ch/gesundheitsamtdienste/6044
