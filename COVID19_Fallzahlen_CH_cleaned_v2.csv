@@ -6174,7 +6174,7 @@
 02.10.2020,00:00:00,NE,0,1161,0,2,0,0,0,90,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 02.10.2020,00:00:00,NW,0,154,0,1,0,0,0,4,http://www.nw.ch/coronastatistik
 02.10.2020,00:00:00,OW,0,124,0,0,0,0,0,0,https://www.ow.ch/dl.php/de/5f89abc52ad1f/OW-1103775-v1-Statistik_OW_Covid-19.XLSX
-02.10.2020,00:00:00,SG,0,1742,0,8,0,0,0,0,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19/_jcr_content/Par/sgch_downloadlist/DownloadListPar/sgch_download.ocFile/KantonSG_C19-Faelle_download.csv
+02.10.2020,00:00:00,SG,0,1742,0,8,0,0,0,41,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19/_jcr_content/Par/sgch_downloadlist/DownloadListPar/sgch_download.ocFile/KantonSG_C19-Faelle_download.csv
 02.10.2020,09:30:00,SH,0,206,0,1,0,0,0,8,https://sh.ch/CMS/get/file/b2788857-533d-4e14-812e-a2e3cc22eb69
 02.10.2020,01:00:00,SO,0,893,0,4,0,0,0,18,https://corona.so.ch/index.php?id=27979
 02.10.2020,09:00:00,SZ,0,602,0,6,0,0,533,25,https://www.sz.ch/public/upload/assets/49170/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx
@@ -6186,7 +6186,7 @@
 02.10.2020,08:00:00,ZG,0,450,0,0,0,0,410,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 02.10.2020,14:30:00,ZH,0,8227,0,31,0,8,0,148,https://www.zh.ch/de/gesundheit/coronavirus.html
 02.10.2020,00:00:00,FL,0,120,0,0,0,0,116,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf
-02.10.2020,,CH,,54639,0,202,,,,2044,
+02.10.2020,,CH,,54639,0,202,,,,2085,
 03.10.2020,08:00:00,AG,0,2686,0,11,0,0,2430,55,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 03.10.2020,,AI,,42,0,0,,,,0,
 03.10.2020,,AR,,189,0,3,,,,3,
@@ -6195,14 +6195,14 @@
 03.10.2020,09:40:00,BS,0,1339,0,1,1,0,1240,54,https://www.gesundheit.bs.ch
 03.10.2020,00:00:00,FR,0,2494,0,8,1,0,176,102,https://www.fr.ch/sites/default/files/2020-10/201015_statistiques_situation_COVID_site_V2.xlsx
 03.10.2020,00:00:00,GE,0,8636,0,40,3,0,0,313,https://www.ge.ch/document/21502/telecharger
-03.10.2020,00:00:00,GL,0,187,0,0,0,0,0,0,https://www.gl.ch/public/upload/assets/31286/Sentinella%20Bericht%20KW41.pdf
+03.10.2020,00:00:00,GL,0,187,0,0,0,0,0,13,https://www.gl.ch/public/upload/assets/31286/Sentinella%20Bericht%20KW41.pdf
 03.10.2020,00:00:00,GR,0,1122,0,2,0,0,0,50,
 03.10.2020,00:00:00,JU,0,339,0,4,1,0,0,7,https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html
 03.10.2020,,LU,,1262,0,6,,,,24,
 03.10.2020,00:00:00,NE,0,1166,0,1,0,0,0,90,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx
 03.10.2020,00:00:00,NW,0,156,0,1,0,0,0,4,http://www.nw.ch/coronastatistik
 03.10.2020,,OW,,125,0,0,,,,0,
-03.10.2020,00:00:00,SG,0,1763,0,7,0,0,0,0,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19/_jcr_content/Par/sgch_downloadlist/DownloadListPar/sgch_download.ocFile/KantonSG_C19-Faelle_download.csv
+03.10.2020,00:00:00,SG,0,1763,0,7,0,0,0,41,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19/_jcr_content/Par/sgch_downloadlist/DownloadListPar/sgch_download.ocFile/KantonSG_C19-Faelle_download.csv
 03.10.2020,,SH,,208,0,1,,,,8,
 03.10.2020,,SO,,901,0,4,,,,18,
 03.10.2020,09:00:00,SZ,0,616,0,7,0,0,533,25,https://www.sz.ch/public/upload/assets/49170/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx
@@ -6214,7 +6214,7 @@
 03.10.2020,08:00:00,ZG,0,450,0,0,0,0,410,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 03.10.2020,14:30:00,ZH,0,8327,0,32,0,8,0,148,https://www.zh.ch/de/gesundheit/coronavirus.html
 03.10.2020,00:00:00,FL,0,123,0,0,0,0,116,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf
-03.10.2020,,CH,,55139,0,204,,,,2031,
+03.10.2020,,CH,,55139,0,204,,,,2085,
 04.10.2020,08:00:00,AG,0,2696,0,11,0,0,2440,55,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 04.10.2020,,AI,,43,0,0,,,,0,
 04.10.2020,,AR,,193,0,3,,,,3,
@@ -6223,7 +6223,7 @@
 04.10.2020,10:20:00,BS,0,1346,0,1,1,0,1244,54,https://www.gesundheit.bs.ch
 04.10.2020,00:00:00,FR,0,2520,0,9,1,0,176,102,https://www.fr.ch/sites/default/files/2020-10/201015_statistiques_situation_COVID_site_V2.xlsx
 04.10.2020,00:00:00,GE,0,8673,0,42,3,0,0,314,https://www.ge.ch/document/21502/telecharger
-04.10.2020,00:00:00,GL,0,189,0,0,0,0,0,0,https://www.gl.ch/public/upload/assets/31286/Sentinella%20Bericht%20KW41.pdf
+04.10.2020,00:00:00,GL,0,189,0,0,0,0,0,13,https://www.gl.ch/public/upload/assets/31286/Sentinella%20Bericht%20KW41.pdf
 04.10.2020,00:00:00,GR,0,1122,0,2,0,0,0,50,
 04.10.2020,00:00:00,JU,0,340,0,4,1,0,0,7,https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html
 04.10.2020,,LU,,1270,0,6,,,,24,
@@ -6242,7 +6242,7 @@
 04.10.2020,08:00:00,ZG,0,450,0,0,0,0,410,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona
 04.10.2020,14:30:00,ZH,0,8527,0,32,0,8,0,148,https://www.zh.ch/de/gesundheit/coronavirus.html
 04.10.2020,00:00:00,FL,0,126,0,0,0,0,116,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf
-04.10.2020,,CH,,55681,0,211,,,,2073,
+04.10.2020,,CH,,55681,0,211,,,,2086,
 05.10.2020,08:00:00,AG,0,2712,0,10,2,0,2455,55,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/daten_excel/Covid-19-Daten_Kanton_Aargau.xlsx
 05.10.2020,12:00:00,AI,0,43,0,0,0,0,0,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus
 05.10.2020,15:45:00,AR,0,197,0,3,0,0,0,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
